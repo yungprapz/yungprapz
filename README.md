@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yungprapz
-- 👀 I’m interested in building social impact driven products
-- 🌱 I’m currently learning react and ML
+- 👀 I’m interested in AI Safety Research 
+- 🌱 I'm interested in AI for Science and Benefical Deployments
 - 💞️ I’m looking to collaborate on any open source tech for good products
 - 📫 How to reach me: pagarw2@uwo.ca
 
